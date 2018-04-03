@@ -1,0 +1,21 @@
+{
+  "name": "application1",
+  "version": "1.0.0",
+  "description": "my first app nodejs",
+  "main": "app01.js",
+  "scripts": {
+    "start": "nodemon app01.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "haythem",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "if": "^2.0.0",
+    "res-json": "^1.0.1"
+  }
+}
